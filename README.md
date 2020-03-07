@@ -1,13 +1,10 @@
-RedditBot
+PreviousChapterBot
 =========
 
-A simple Reddit bot in Python.
+A simple Reddit bot in Python, copied from Marvin bot http://pythonforengineers.com/build-a-reddit-bot-part-1/
 
-A software bot is a program that can interact with websites autonomously. They can be as simple or as complex as you want them to be.
+The bot runs in the background and links to a previous discussion thread whenever a '!previousChapter' is typed in r/manga
 
-The bot runs in the background and monitors a website. When it sees a change (like a post on Reddit), it can reply to it, upvote, or do any other task it was programmed to.
+developed by u/hooahest
 
 
-To learn how to build this bot, please see:
-
-http://pythonforengineers.com/build-a-reddit-bot-part-1/
